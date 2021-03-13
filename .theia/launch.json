@@ -1,0 +1,160 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<charts-hello-world>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "charts-hello-world"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<form-submission>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "form-submission"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<google-charts-bigfoot-sightings>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "google-charts-bigfoot-sightings"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<google-charts-favorite-colors>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "google-charts-favorite-colors"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<google-cloud-datastore-todo-list>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "google-cloud-datastore-todo-list"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<google-cloud-natural-language-web-app>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "google-cloud-natural-language-web-app"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<google-cloud-storage-hello-world>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "google-cloud-storage-hello-world"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<google-maps-tour>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "google-maps-tour"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<google-maps-ufos>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "google-maps-ufos"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<image-upload-analyzer>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "image-upload-analyzer"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<maps-hello-world>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "maps-hello-world"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<maps-info-window>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "maps-info-window"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<maps-marker>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "maps-marker"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<marker-storage>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "marker-storage"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<minimal-google-translation>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "minimal-google-translation"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<page-view-counter>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "page-view-counter"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<portfolio>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "portfolio"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<server-date>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "server-date"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<server-stats>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "server-stats"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<stanley-portfolio>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "stanley-portfolio"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServerMain<text-processor>",
+      "request": "launch",
+      "mainClass": "com.google.sps.ServerMain",
+      "projectName": "text-processor"
+    }
+  ]
+}
