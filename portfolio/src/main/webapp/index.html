@@ -5,7 +5,7 @@
     <title>Jacqueline's Portfolio</title>
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
-    <script src="hellojackiescript.js"></script>
+    <script src="randomquote.js"></script>
   </head>
   <body>
     <div id="content">
@@ -67,9 +67,22 @@
       <div id="greeting-container"></div>
     </div>
 
-    <p id="hello-jackie-container"></p>
-    <button onclick="hellojackie();">
-      Click me!
+    <p id="random-quote-container"></p>
+    <button onclick="randomquote();">
+      Click here for one of my favorite quotes!
     </button>
+
+    <form>
+        <label for = "name">Enter your name:</label>
+        <input type="text" id="name" name="name-input"></textarea>
+    </br>
+        <label for = "email">Enter your email address:</label>
+        <input type="text" id="email" name="email-input"></textarea>
+    </br>
+        <label for = "reason">Enter your name:</label>
+        <textarea id="reason" name="reason"></textarea>
+    </br>
+    </form>
+   
   </body>
 </html>
