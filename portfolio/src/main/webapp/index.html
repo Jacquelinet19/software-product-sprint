@@ -72,16 +72,17 @@
       Click here for one of my favorite quotes!
     </button>
 
-    <form>
+    <form method="POST" action="/new-contact">
         <label for = "name">Enter your name:</label>
         <input type="text" id="name" name="name-input"></textarea>
     </br>
         <label for = "email">Enter your email address:</label>
         <input type="text" id="email" name="email-input"></textarea>
     </br>
-        <label for = "reason">Enter your name:</label>
+        <label for = "reason">Enter your reason for contacting:</label>
         <textarea id="reason" name="reason"></textarea>
     </br>
+     <input type="submit" value="Submit">
     </form>
    
   </body>
